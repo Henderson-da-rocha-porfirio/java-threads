@@ -1,3 +1,3 @@
 # Threads
 ### Threads são responsáveis pela execução do programa.
-### São elas que vai passando pelas instruções e vai executando o algoritmo.
+### São elas que vao passando pelas instruções e vao executando o algoritmo.
